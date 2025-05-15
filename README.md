@@ -32,6 +32,19 @@ pip install -r requirements.txt
 
 ```
 
+
+
+
+https://github.com/user-attachments/assets/95511d84-2bd5-4332-baa4-49e77356b372
+
+
+
+
+
+
+
+
+
 ![16 05 2025_00 26 23_REC](https://github.com/user-attachments/assets/7904dcc4-3cc8-42a7-ac17-4f22c043b903)
 
 ![16 05 2025_00 26 45_REC](https://github.com/user-attachments/assets/4067d2e5-4b6f-4064-937e-e4eb8711c8ad)
