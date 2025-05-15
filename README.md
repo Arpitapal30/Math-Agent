@@ -30,8 +30,9 @@ git clone https://github.com/your-username/agentic-math-rag.git
 cd agentic-math-rag
 pip install -r requirements.txt
 
+```
 
+![16 05 2025_00 26 23_REC](https://github.com/user-attachments/assets/7904dcc4-3cc8-42a7-ac17-4f22c043b903)
 
-
-##...............
-
+![16 05 2025_00 26 45_REC](https://github.com/user-attachments/assets/4067d2e5-4b6f-4064-937e-e4eb8711c8ad)
+![16 05 2025_00 27 31_REC](https://github.com/user-attachments/assets/6488b76d-fe8e-4ab0-9337-e6578542b074)
