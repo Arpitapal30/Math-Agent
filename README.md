@@ -21,6 +21,7 @@ A powerful Retrieval-Augmented Generation (RAG) based system tailored for answer
 ![Agentic-RAG System](A_flowchart_illustrates_an_Agentic-RAG_System_arch.png)
 
 ---
+![ChatGPT Image May 16, 2025, 12_16_59 AM](https://github.com/user-attachments/assets/1319b223-9c00-485f-90ea-ec63eeb28205)
 
 ## 🛠️ Installation
 
